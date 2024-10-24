@@ -1,6 +1,6 @@
 # SQL-Portfolio
 
-This repository contains a collection of projects where I utilized mySQL to query and analyze public datasets. Each project demonstrates my ability to write complex, practical SQL queries, extract insights from datasets, and perform data manipulation tasks using MySQL. These techniques include filtering, aggregating, joins, Common Table Expressions (CTEs), window functions, to effectively query and analyze data that aligns with practical business questions and goals.
+This repository contains a collection of projects where I utilized mySQL to query and analyze public datasets. Each project demonstrates my ability to write complex, practical SQL queries, extract insights from datasets, and perform data manipulation tasks using MySQL. Techniques employed are filtering, aggregating, joins, Common Table Expressions (CTEs), window functions, to effectively query and analyze data that aligns with practical business questions and goals.
 
 The data sources utilized in these projects are:
 
