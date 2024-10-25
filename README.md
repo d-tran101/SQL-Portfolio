@@ -10,5 +10,5 @@ The data sources utilized in these projects are:
 
 3. Northwind Database: A sample database that simulates a trading company's operations, featuring diverse data related to sales, order details, suppliers, products, and customers.
 
-4. Washington Survey Database: Captures responses from employees in Washington regarding their workplace experiences.
+4. Washington Survey Dataset: Captures responses from employees in Washington regarding their workplace experiences.
 
