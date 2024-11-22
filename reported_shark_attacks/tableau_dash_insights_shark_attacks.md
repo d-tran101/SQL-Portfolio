@@ -1,4 +1,5 @@
 
+![tableau_shark_attacks](https://github.com/user-attachments/assets/bf831c87-820e-4856-8c0c-3934aad31725)
 
 # Key Observations Gathered from the Dashboard:
 
