@@ -2,6 +2,8 @@
 
 ![tableau_sharkattacks](https://github.com/user-attachments/assets/8063518e-e7b4-4273-adb3-2743337934b4)
 
+Link to dashboard: https://public.tableau.com/views/SharkAttacksfrom1900to2017/SharkAttackDash
+
 # Key Observations Gathered from the Dashboard:
 
 Top Countries for Shark Attacks: Between 1900 and 2017, the United States, Australia, and South Africa consistently recorded the highest number of shark attacks globally.
