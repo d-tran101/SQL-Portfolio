@@ -12,3 +12,6 @@ The data sources utilized in these projects are:
 
 4. Washington Survey Dataset: Captures responses from employees in Washington regarding their workplace experiences.
 
+5. Reported Shark Attacks: contains information about reported shark attacks from 1900 to 2017.
+
+6. Online Retail Sales: contains transactional sales data from December 2019 to December 2011 from a U.K based online retailer.
